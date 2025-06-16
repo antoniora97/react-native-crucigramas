@@ -1,0 +1,93 @@
+[
+    {
+        "id": "crucigrama_1",
+        "title": "Lunes, 16 de Junio de 2025",
+        "gridSize": 6,
+        "words": [
+            {
+                "word": "ANAFES",
+                "clue": "Hornillos generalmente portátiles.",
+                "start_row": 0,
+                "start_col": 0,
+                "direction": "horizontal"
+            },
+            {
+                "word": "SERI",
+                "clue": "Pueblo indígena del estado mexicano de Sonora.",
+                "start_row": 1,
+                "start_col": 2,
+                "direction": "horizontal"
+            },
+            {
+                "word": "REALES",
+                "clue": "Que tienen existencia objetiva.",
+                "start_row": 2,
+                "start_col": 0,
+                "direction": "horizontal"
+            },
+            {
+                "word": "ANDINA",
+                "clue": "Natural de Andes (fem).",
+                "start_row": 3,
+                "start_col": 0,
+                "direction": "horizontal"
+            },
+            {
+                "word": "STOP",
+                "clue": "Pare.",
+                "start_row": 4,
+                "start_col": 0,
+                "direction": "horizontal"
+            },
+            {
+                "word": "AEREAS",
+                "clue": "Relativas al aire.",
+                "start_row": 5,
+                "start_col": 0,
+                "direction": "horizontal"
+            },
+            {
+                "word": "ARRASA",
+                "clue": "Echa por tierra, destruye.",
+                "start_row": 0,
+                "start_col": 0,
+                "direction": "vertical"
+            },
+            {
+                "word": "ASADOR",
+                "clue": "Hombre que se dedica a cuidar la parrilla.",
+                "start_row": 0,
+                "start_col": 2,
+                "direction": "vertical"
+            },
+            {
+                "word": "FELIPE",
+                "clue": "'...Juan Pablo Alfonso de Todos los Santos de Borbón y Grecia'.",
+                "start_row": 0,
+                "start_col": 3,
+                "direction": "vertical"
+            },
+            {
+                "word": "EREN",
+                "clue": "'...Jaeger', protagonista de Ataque a los Titantes.",
+                "start_row": 0,
+                "start_col": 4,
+                "direction": "vertical"
+            },
+            {
+                "word": "SISAIS",
+                "clue": "Hacéis una sisa en una prenda de vestir.",
+                "start_row": 0,
+                "start_col": 5,
+                "direction": "vertical"
+            },
+            {
+                "word": "ENTE",
+                "clue": "En Filosofía: Lo que es, existe o puede existir.",
+                "start_row": 2,
+                "start_col": 1,
+                "direction": "vertical"
+            }
+        ]
+    }
+]
